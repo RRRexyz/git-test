@@ -1,0 +1,8 @@
+test/test.html
+
+image/
+
+*.png
+!image.png
+
+temp*
